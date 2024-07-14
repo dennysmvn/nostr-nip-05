@@ -1,5 +1,8 @@
 {
     "names": {
         "dennysmvn": "b759fe435454f3892be12165444fd64d2e073806c7641b13dcf33475fd3a63b3"
-    }
+    },
+    "relays": {
+    "b759fe435454f3892be12165444fd64d2e073806c7641b13dcf33475fd3a63b3": [ "wss://relay.damus.io", "wss://nos.lol", "wss://relay.snort.social", "wss://eden.nostr.land"]
+  }
 }
